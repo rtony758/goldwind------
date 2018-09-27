@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/goldwind/common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/customercenter" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/customerinfo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/electricitytrading" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/load-forecast" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/oauth2-server" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/parent" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/project-overview" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/reportweb" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.cms" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.cms/subsys.cms.dao" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.cms/subsys.cms.impl" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.cms/subsys.cms.interface" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.cms/subsys.cms.pojo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.solution" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.solution/subsys.solution.dao" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.solution/subsys.solution.impl" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.solution/subsys.solution.interface" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/subsys.solution/subsys.solution.pojo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/web" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/goldwind/web.cms" charset="UTF-8" />
+  </component>
+</project>

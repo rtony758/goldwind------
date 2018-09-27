@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="customercenter" />
+        <module name="customerinfo" />
+        <module name="electricitytrading" />
+        <module name="load-forecast" />
+        <module name="oauth2-server" />
+        <module name="project-overview" />
+        <module name="reportweb" />
+        <module name="subsys.cms.dao" />
+        <module name="subsys.cms.impl" />
+        <module name="subsys.cms.interface" />
+        <module name="subsys.cms.pojo" />
+        <module name="subsys.solution.dao" />
+        <module name="subsys.solution.impl" />
+        <module name="subsys.solution.interface" />
+        <module name="subsys.solution.pojo" />
+        <module name="web" />
+        <module name="web.cms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
